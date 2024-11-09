@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Nikita Galani - Apollo",
+  "Type": "Screen",
+  "Id": "lR0NjHzEH02vHJFFxMjlow",
+  "Reference": "ravD3l46IEORir2nqweHbg/lR0NjHzEH02vHJFFxMjlow",
+  "ParentRef": "ravD3l46IEORir2nqweHbg/QaXD0o2pXU6t5nN62irCSw",
+  "Created": "2024-10-04T03:35:21.7954007Z",
+  "Updated": "2024-10-04T03:35:21.7954007Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

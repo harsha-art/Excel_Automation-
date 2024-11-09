@@ -1,0 +1,58 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Contacts(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "com_soze&Sequence_12",
+        "sheet&Sequence_12",
+        "phone_no&Sequence_1",
+        "email&Sequence_1",
+        "Company_name&Sequence_1",
+        "url&Sequence_1",
+        "Location&Sequence_1",
+        "company_size&Sequence_1",
+        "Company_dt&Sequence_1",
+        "startup_dt&Sequence_1",
+        "contacts_dt&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "startup_contacts&Sequence_1",
+        "comp_contacts&Sequence_1",
+        "Not_Found&Sequence_1",
+        "website_url_com&Sequence_1",
+        "pone&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Contacts.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

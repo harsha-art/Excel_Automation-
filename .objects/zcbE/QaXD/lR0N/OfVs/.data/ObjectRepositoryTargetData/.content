@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VkLOH4GsaUaMcZHnOQt-Lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://app.apollo.io/#/accounts/66fa2354365809041ebef38f/people?finderViewId=5b6dfc5a73f47568b2e5f11c&amp;mixedAccountIds[]=66fa2354365809041ebef38f" CVScreenId="941d9f40-768f-4360-8653-7e29308282e6" CvElementArea="400, 617, 326, 48" CvType="InputBox" DesignTimeRectangle="418, 621, 270, 42" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tabindex='0' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl tabindex='0' tag='INPUT' type='' class='Select-input ' aaname='*' /&gt;" Guid="647804d8-1c19-4388-a027-c87173b225a7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*- Apollo' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="941d9f40-768f-4360-8653-7e29308282e6" CvElementArea="400, 617, 326, 48" CvTextArgument="Is any of" CvType="InputBox" DesignTimeRectangle="692, 631, 18, 24" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;i' isleaf='1' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' tag='I' class='zp-icon apollo-icon apollo-icon-dropdown-large zp_mMqLX zp_EASSb Select-arrow' aaname='' /&gt;" Guid="38fe1ca4-4b8e-4b2e-9321-c1b196513ddc" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="941d9f40-768f-4360-8653-7e29308282e6" CvTextArea="435, 678, 121, 21" CvTextArgument="Is not any of" CvType="Text" DesignTimeRectangle="438, 679, 118, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Is not any of' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Is not any of' tag='SPAN' type='' class='zp_KNt2o' check:innerText='Is not any of' /&gt;" Guid="d9efbeb0-1b5a-4bf6-b960-21a664e4ca9e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="85e50b6ee4cd5c1ef5ee8f5ddfc8e29b.png" xmlns="">06ksjXsQ2zkygPr8X51QMcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

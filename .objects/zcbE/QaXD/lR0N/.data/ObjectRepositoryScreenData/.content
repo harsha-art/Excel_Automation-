@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="dKuMfwFJdkaHZScZCqd41w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-12, -12, 1944, 1044" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAcZJREFUWEftlaFOA0EQhk8gEJBUIAhBnCChAtGECgTieABINYjiwNXgG3gAeABELQ6FJuEB6BvAG/AILPcf+ZvZub292SOhpuJPrruzO9/O/LvNvueFW6ZWACuAPwFMr3M3vcqDc1Z1Bvh4OXJZlrne5pr7LL9DMRZ1BhifbVcA0OhkKxhjUSeA2W1/kZx6fRxUc8/3By7fWa9UDHvu6+24tl6qEwA21wAY4zwSY8zij2QAGE8np5gQ1ZBAMSUB0HgUS83f0pCI1etDSgKQxoPQb5xWjqUa0gygjXdZwnCOPadoSIvMANp48u6HWiPXxmQC0Maj2ZCYIBgLxbSpFSB2Onyj/PjGfYcJGWd9IVsBtPFmd/1qXHqCPdc+sRgyCqA3LA5/T4uqSE/IqqQaMgogk0As6eRi1xuX/dbXEnvEnuNGAG08XruQJ3SCyXkzoFYQIJSEp0df5Rw9IZViyCBAk/F0VUZFs8kebva8WN4WrRqANh7o50/DWt+htmtmMWQNQBuvSZaHxmJIDyD2Vys12N/wNolpfOq3U4MvALTxQkI7rE8shX1jhvQAULImwQeMTdV7uVbuhVycq3ngv7UCWDJA4X4A1LeAWzfdo44AAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='Nikita Galani - Apollo' /&gt;" Title="Nikita Galani - Apollo" Url="https://app.apollo.io/#/companies">
+      <imageRef attrName="InformativeScreenshot" originalValue="6931087ff19c5cd08d7cbd92455d0abe.jpg" xmlns="">0D0Dvcot7B02VefdnOUrCtg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Nikita Galani - Apollo",
+  "Type": "App",
+  "Id": "zcbE5c8GvEGJZUmtFNSQXw",
+  "Reference": "ravD3l46IEORir2nqweHbg/zcbE5c8GvEGJZUmtFNSQXw",
+  "Created": "2024-10-04T03:35:21.7071852Z",
+  "Updated": "2024-10-04T03:35:21.7071852Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
